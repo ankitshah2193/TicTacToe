@@ -1,0 +1,7 @@
+
+8squid:S1220""Move this file to a named package.8ΛΣδεω,
+{
+squid:S135"YReduce the total number of break and continue statements in this loop to use at most one.(Ι’ήÒώÿÿÿÿ8ΛΣδεω,
+9squid:S3626"Remove this redundant jump.(Ι©ƒ8ΛΣδεω,
+{squid:S00116"WRename this field "DEFAULT_CHAR" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(μόϊÿÿÿÿ8®Ψϋζω,
+Dsquid:S1170"!Make this final field static too.(μόϊÿÿÿÿ8®Ψϋζω,

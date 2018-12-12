@@ -1,0 +1,5 @@
+
+[squid:S1854"8Remove this useless assignment to local variable "sign".(Ο‡πωÿÿÿÿ8‡οζω,
+Dsquid:S1170"!Make this final field static too.(μόϊÿÿÿÿ8¬χζω,
+{squid:S00116"WRename this field "DEFAULT_CHAR" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(μόϊÿÿÿÿ8¬χζω,
+1squid:S1220""Move this file to a named package.
